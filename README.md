@@ -1,7 +1,12 @@
-
 # Python-Based Command Terminal
 This project is a web-based terminal interface created using Python and Flask.  
 It allows users to execute basic terminal commands (like `ls`, `cd`, `mkdir`, `rm`) via a web browser.
+
+Problem Statement
+Develop a fully functioning command terminal that mimics the behavior of a real system terminal. The backend of this terminal is built in Python, providing a web-based or command-line interface to execute standard system commands.
+
+Description
+This project implements a Python-powered terminal emulator capable of executing typical filesystem commands such as ls, cd, mkdir, rm, and pwd. It also handles invalid command errors gracefully and integrates system monitoring features to report CPU, memory, and process status. The system aims to closely mimic real terminal behavior with efficient and extensible design.
 
 ## Features
 
